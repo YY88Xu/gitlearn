@@ -6,3 +6,4 @@ Merge feature1.
 Add feature-merge branch.
 Add feature no off branch.
 Add test1.
+Add test2.
