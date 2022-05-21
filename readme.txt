@@ -1,3 +1,4 @@
 Git is free software.
 Creating a new branch is quick and simple.
-Git is funny.
+Git is fun.
+Local change test.
