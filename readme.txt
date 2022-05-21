@@ -10,3 +10,4 @@ Add test2.
 Add test3.
 Add change1.
 Add change2.
+Add change3.
