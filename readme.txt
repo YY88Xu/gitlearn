@@ -6,4 +6,3 @@ Merge1 change.
 Merge2 change.
 No ff change1.
 No ff change2.
-Issue101 fixed.
