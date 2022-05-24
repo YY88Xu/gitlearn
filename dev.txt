@@ -4,3 +4,4 @@ main change3.
 main change4.
 main change5.
 main change6.
+conflict test.
